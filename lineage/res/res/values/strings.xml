@@ -138,11 +138,11 @@
     <!-- About device screen, build date -->
     <string name="build_date">Build date</string>
     <!-- About device screen, Nenggala API Level -->
-    <string name="lineage_api_level">Nenggala API level</string>
+    <string name="lineage_api_level">NaroOS API level</string>
     <!-- About device screen, Nenggala updates -->
-    <string name="lineage_updates">Nenggala updates</string>
+    <string name="lineage_updates">NaroOS updates</string>
     <!-- About device screen, Nenggala version -->
-    <string name="lineage_version">Nenggala version</string>
+    <string name="lineage_version">NaroOS version</string>
     <!-- About device screen, vendor security patch -->
     <string name="lineage_vendor_security_patch">Vendor security patch level</string>
 
